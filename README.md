@@ -51,7 +51,7 @@ The most popular end location with a total number of rides of 16,455 is also Eas
 
 # Summary
 
-Overall from all the visulations, we can conclude that there are more MALE riders compared to FEMALE/UNKNOWWN riders with an average trip duration of 4-6 hours and busiest time during weekday is Thursday 6pm and more riders have subscription. 
+Overall from all the visualizations as shown in [Link to Tableau dashboard](https://public.tableau.com/profile/harini.narayanam#!/vizhome/Deliverable2_16093929934490/NYCStoryChallenge), we can conclude that there are more MALE riders compared to FEMALE/UNKNOWWN riders with an average trip duration of 4-6 hours and busiest time during weekday is Thursday 6pm and more riders have subscription. 
 
 ## Two Additional Visualizations
 
